@@ -1,9 +1,4 @@
 ## Not wake words
 
-When uploading files to this directory, include a metadata.csv file.  The format of the metadata file should follow:
-
-```
-filename, transcript, language, related wake word (optional)
-```
-
+This directory contains subdirectories for language-specific clips and a general noises.  See each language directory for information on adding clips to those directories.  The noises subdirectory is meant only for non-verbal or unintelligible audio clips.  
 
