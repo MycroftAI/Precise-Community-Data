@@ -21,13 +21,18 @@ Models should be packaged in a gzip tar.  Each archive should contain the model 
 │   
 └───not-wake-words/ # samples that are clearly not wake words
 │   │
+│   │   │ README.md
+│   │   │ 
 │   └───lang-short/ # the two-character ISO 639-1 language code eg de, en, es, pt, etc.
+│   │   │   README.md
 │   │   │   metadata.csv # a transcript for the not-wake-word files
 │   │   │   notwakeword-lang-uuid.wav
 │   │   │   notwakeword-lang-uuid.wav
 │   │   │   ...
 │   │
 │   └───noises/ # samples that are not audible words
+│       │   README.md 
+│       │   metadata.csv #  
 │       │   noise-uuid.wav
 │       │   noise-uuid.wav
 │       │   ...

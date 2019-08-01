@@ -3,6 +3,7 @@ I grant anyone the right to use my work for any purpose, without any conditions,
 No warranties are given.  
 
 Files released into public domain:
+athena-en-0.3.0-20190801-eltocino.tar.gz
 athena-en-0111603b-448a-47cf-a707-92ad4ba277fd.wav
 athena-en-01355138-772d-4794-981a-eaa27fe47074.wav
 athena-en-02f08d07-a764-40f2-90c5-2657da33c668.wav
