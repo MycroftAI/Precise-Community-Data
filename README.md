@@ -32,7 +32,7 @@ Models should be packaged in a gzip tar.  Each archive should contain the model 
 │   │
 │   └───noises/ # samples that are not audible words
 │       │   README.md 
-│       │   metadata.csv #  
+│       │   metadata.csv # name, brief description of noise
 │       │   noise-uuid.wav
 │       │   noise-uuid.wav
 │       │   ...
