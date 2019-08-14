@@ -1,0 +1,26 @@
+I, el-tocino, hereby agree to waive all claim of copyright (economic and moral) in all content contributed by me, the user, and immediately place any and all contributions by me into the public domain, unless otherwise noted.
+I grant anyone the right to use my work for any purpose, without any conditions, to be changed or destroyed in any manner whatsoever without any attribution or notification.
+No warranties are given.
+
+Files released into public domain:
+heycomputer/en/heycomputer-en-e9dbe4fd-bf42-4786-82de-480175d4795e.wav
+heycomputer/en/heycomputer-en-8a17a4b5-77a0-4f9e-8c91-e81562002e65.wav
+heycomputer/en/heycomputer-en-7b319ec0-ccf7-4d73-8065-79c1f55072d7.wav
+heycomputer/en/heycomputer-en-d47a3654-2299-4fef-be2c-1fc4560a5f24.wav
+heycomputer/en/heycomputer-en-e957b508-9d8d-4024-9562-f879580391a0.wav
+heycomputer/en/heycomputer-en-dd8810ac-4e4b-4d19-9887-4aa5345fe20c.wav
+heycomputer/en/heycomputer-en-46bb497b-833e-423f-90f7-da28987402ac.wav
+heycomputer/en/heycomputer-en-81ce4274-da03-4342-b695-7a92d507afba.wav
+heycomputer/en/heycomputer-en-258d487d-a2bb-4619-a636-cff032b5c5d0.wav
+heycomputer/en/heycomputer-en-2aa5faeb-52b7-496d-a84a-c8504a2a1d74.wav
+computer/en/computer-en-92c61004-5d52-498d-a001-ccc1737e0d13.wav
+computer/en/computer-en-676545f2-4a50-4d6c-8c1d-3eba3c25e75d.wav
+computer/en/computer-en-32e1308b-72f2-4d49-8be9-6d33f904f577.wav
+computer/en/computer-en-35128342-eed2-4e60-93e9-d82815c608b1.wav
+computer/en/computer-en-1e9ccdd2-cefe-4da7-bbbc-285e48dbe2cf.wav
+computer/en/computer-en-f8879508-16dc-4a09-9cef-eaac7e86110c.wav
+computer/en/computer-en-70bbfe08-4ef5-4778-865f-40353f4ef880.wav
+computer/en/computer-en-6d4ba454-0108-4fd5-879a-68a044fdfe60.wav
+computer/en/computer-en-1e73e339-2f57-4553-8dd2-86131361edcf.wav
+computer/en/computer-en-5362fe15-8f74-46d6-9f60-989b16406933.wav
+
