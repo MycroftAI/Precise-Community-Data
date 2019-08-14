@@ -24,3 +24,13 @@ computer/en/computer-en-6d4ba454-0108-4fd5-879a-68a044fdfe60.wav
 computer/en/computer-en-1e73e339-2f57-4553-8dd2-86131361edcf.wav
 computer/en/computer-en-5362fe15-8f74-46d6-9f60-989b16406933.wav
 
+notwakeword-en-04b426bb-5a19-4708-acbe-35445bd213d4.wav
+notwakeword-en-113240c4-b6e8-4efe-93d1-f7613a569aa9.wav
+notwakeword-en-1fd8b5fe-cb5f-46f3-a65e-1aae0ae975e6.wav
+notwakeword-en-295356ee-14a4-4f0d-9e1b-1fcddc488142.wav
+notwakeword-en-297db0c4-b05d-43b0-bf3c-511834b3ed38.wav
+notwakeword-en-759a9301-0edd-4d4e-a7d5-999b03439007.wav
+notwakeword-en-90db9f92-78a5-40f5-8b18-0b645e3cbcbc.wav
+notwakeword-en-afd9d8b4-8b9d-43d9-af09-435afdfe377c.wav
+notwakeword-en-b07a521c-1f35-4bba-9abf-90feca73b79d.wav
+notwakeword-en-df503302-6c8f-4357-88b4-c250197c3364.wav
