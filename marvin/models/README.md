@@ -14,7 +14,6 @@ wake_words=1680 not_wake_words=102444 test_wake_words=420 test_not_wake_words=25
 
 {
     "tested_on": "test_set",
-    "name": "goog_marvin_e1000_s0.1_b100_mturk_synth_goog_pd",
     "tp": 362,
     "tn": 25592,
     "acc": 99.72,
@@ -24,7 +23,6 @@ wake_words=1680 not_wake_words=102444 test_wake_words=420 test_not_wake_words=25
 
 {
     "tested_on": "train_set",
-    "name": "goog_marvin_e1000_s0.2_b3000_mturk_synth_goog_pd",
     "tp": 1512,
     "tn": 102383,
     "acc": 99.84,

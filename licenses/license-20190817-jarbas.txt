@@ -4,3 +4,4 @@ No warranties are given.
 
 Files covered by this update:
 marvin-en-0.3.0-20190817-jarbas.tar.gz
+sheila-en-0.3.0-20190817-jarbas.tar.gz
