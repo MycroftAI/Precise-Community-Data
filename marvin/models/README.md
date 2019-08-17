@@ -4,9 +4,9 @@
 
 1000 epochs, sensitivity 0.1, batch_size 100
 
-google keywords "marvin" for ww samples
+[Google Speech Commands Dataset ](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html) "marvin" for ww samples
 
-PCD Noises + the other google keywords + private dataset + polly TTS synthetic data for nww.
+[Public Domain Sounds Backup](http://pdsounds.tuxfamily.org/) + the other [Google Speech Commands Dataset ](https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html) + private dataset for nww.
 
 precise 0.3.0
 
