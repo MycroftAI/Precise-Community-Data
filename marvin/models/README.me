@@ -1,0 +1,33 @@
+# Marvin
+
+### marvin-en 20190817
+
+1000 epochs, sensitivity 0.1, batch_size 100
+
+google keywords "marvin" for ww samples
+
+PCD Noises + the other google keywords + private dataset + polly TTS synthetic data for nww.
+
+precise 0.3.0
+
+wake_words=1680 not_wake_words=102444 test_wake_words=420 test_not_wake_words=25619
+
+{
+    "tested_on": "test_set",
+    "name": "goog_marvin_e1000_s0.1_b100_mturk_synth_goog_pd",
+    "tp": 362,
+    "tn": 25592,
+    "acc": 99.72,
+    "fn": 58,
+    "fp": 14
+}
+
+{
+    "tested_on": "train_set",
+    "name": "goog_marvin_e1000_s0.2_b3000_mturk_synth_goog_pd",
+    "tp": 1512,
+    "tn": 102383,
+    "acc": 99.84,
+    "fn": 168,
+    "fp": 0
+}
