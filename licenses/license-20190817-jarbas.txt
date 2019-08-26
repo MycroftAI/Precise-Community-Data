@@ -1,0 +1,7 @@
+I, JarbasAl, hereby agree to waive all claim of copyright (economic and moral) in all content contributed by me, the user, and immediately place any and all contributions by me into the public domain, unless otherwise noted.
+I grant anyone the right to use my work for any purpose, without any conditions, to be changed or destroyed in any manner whatsoever without any attribution or notification.
+No warranties are given.
+
+Files covered by this update:
+marvin-en-0.3.0-20190817-jarbas.tar.gz
+sheila-en-0.3.0-20190817-jarbas.tar.gz
