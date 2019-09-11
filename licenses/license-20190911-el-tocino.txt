@@ -1,0 +1,28 @@
+I, el-tocino (https://github.com/el-tocino), hereby agree to waive all claim of copyright (economic and moral) in all content contributed by me, the user, and immediately place any and all contributions by me into the public domain, unless otherwise noted.
+I grant anyone the right to use my work for any purpose, without any conditions, to be changed or destroyed in any manner whatsoever without any attribution or notification.
+No warranties are given.  
+
+Files released into public domain:
+notwakeword-en-0610f88e-7550-4e7e-84d3-8ddf319a1b17.wav
+notwakeword-en-1293a92b-c681-4a10-aeaf-f4c71424b09f.wav
+notwakeword-en-1ec37d34-4b29-414d-8a6f-dadd9f0edbb3.wav
+notwakeword-en-354d45a8-58f2-46ed-b06c-23b77d7182cb.wav
+notwakeword-en-41a3975c-7b46-41d2-91cd-8f151706a111.wav
+notwakeword-en-623c0dff-a0d4-452d-9857-b82ffede37b2.wav
+notwakeword-en-66e65deb-a4f3-4c05-b17a-39680a3d7f6a.wav
+notwakeword-en-6e2a1c4f-6166-4e7f-98b6-1afefb1a3644.wav
+notwakeword-en-7ef7994d-e485-473b-a935-ef2ea10c7ab8.wav
+notwakeword-en-979e9702-a0d7-4c10-ad28-987a8d312cd2.wav
+notwakeword-en-99612f53-e2fd-43ee-9a5f-b68968b09b9c.wav
+notwakeword-en-aa2db889-50d9-4cf0-9a20-ed393f2b28b0.wav
+notwakeword-en-b2e7f798-b6c9-4f84-9fb5-d443db2231f1.wav
+notwakeword-en-b38baa60-fdcb-41ed-a0ed-e1dcdcaf01d9.wav
+notwakeword-en-bd2c2ced-c507-473a-b225-e89f697f9bcd.wav
+notwakeword-en-c2dc38a9-06f3-4b86-bcc3-9e1eeee0ec3a.wav
+notwakeword-en-e7c63884-4ae2-4cca-8535-c2ca5800a205.wav
+notwakeword-en-ebfa048a-53b4-49c0-be78-f1ca262a4b04.wav
+notwakeword-en-f2762e2a-14ba-4c23-a87e-5f8b02dca044.wav
+notwakeword-en-f591fb45-e7ef-4f28-b6a8-c39b0e0adbfd.wav
+notwakeword-en-fdbd80c1-9b3a-4e74-9fa8-a1c42afa3382.wav
+notwakeword-en-fddf37a3-40d6-4e86-8577-d120d697dfbc.wav
+
