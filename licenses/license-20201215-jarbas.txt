@@ -3,7 +3,7 @@ I grant anyone the right to use my work for any purpose, without any conditions,
 No warranties are given.
 
 Files released into public domain:
-not-wake-words/noises/bg_noise-20201215.tar.gz
-not-wake-words/noises/false_activations-20201215.tar.gz
+not-wake-words/noises/bg_noise-20201215-jarbas.tar.gz
+not-wake-words/noises/false_activations-20201215-jarbas.tar.gz
 android/en/models/android-en-0.3-20201215-jarbas.tar.gz
 android/en/android-20201215-jarbas.tar.gz
