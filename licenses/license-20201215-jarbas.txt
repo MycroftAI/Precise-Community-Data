@@ -1,0 +1,9 @@
+I, JarbasAi, hereby agree to waive all claim of copyright (economic and moral) in all content contributed by me, the user, and immediately place any and all contributions by me into the public domain, unless otherwise noted.
+I grant anyone the right to use my work for any purpose, without any conditions, to be changed or destroyed in any manner whatsoever without any attribution or notification.
+No warranties are given.
+
+Files released into public domain:
+not-wake-words/noises/bg_noise-20201215.tar.gz
+not-wake-words/noises/false_activations-20201215.tar.gz
+android/en/models/android-en-0.3-20201215-jarbas.tar.gz
+android/en/android-20201215-jarbas.tar.gz
