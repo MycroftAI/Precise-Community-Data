@@ -1,0 +1,9 @@
+
+I, hanzala123 , hereby agree to waive all claim of copyright (economic and moral) in all content contributed by me, the user, and immediately place any and all contributions by me into the public domain, unless otherwise noted.
+I grant anyone the right to use my work for any purpose, without any conditions, to be changed or destroyed in any manner whatsoever without any attribution or notification.
+No warranties are given.
+
+Files released into public domain:
+models/jarvis.pb
+models/jarvis.pb.params
+models/jarvis.pbtxt
